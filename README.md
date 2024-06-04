@@ -7,5 +7,5 @@ This straightforward website was constructed using the fundamentals of HTML, CSS
 - Searching was implemented as one of the interactive features.
 
 # WEB APPLICATION
-- [See link](file:///C:/Users/User/Downloads/index.html)
+- [See link](index.html)
 
