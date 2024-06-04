@@ -6,6 +6,3 @@ This straightforward website was constructed using the fundamentals of HTML, CSS
 - Displays the API data in a gallery format.
 - Searching was implemented as one of the interactive features.
 
-# WEB APPLICATION
-- [See link](index.html)
-
